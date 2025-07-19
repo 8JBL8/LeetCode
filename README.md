@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/8JBL8/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/8JBL8/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/8JBL8/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/8JBL8/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/8JBL8/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/8JBL8/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/8JBL8/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/8JBL8/LeetCode/tree/master/0941-sort-array-by-parity) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
