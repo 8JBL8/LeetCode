@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/8JBL8/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/8JBL8/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/8JBL8/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/8JBL8/LeetCode/tree/master/0020-valid-parentheses) |
+| [0782-jewels-and-stones](https://github.com/8JBL8/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
