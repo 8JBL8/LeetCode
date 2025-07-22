@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
 | [1505-create-target-array-in-the-given-order](https://github.com/8JBL8/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/8JBL8/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2058-concatenation-of-array](https://github.com/8JBL8/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/8JBL8/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2058-concatenation-of-array](https://github.com/8JBL8/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
