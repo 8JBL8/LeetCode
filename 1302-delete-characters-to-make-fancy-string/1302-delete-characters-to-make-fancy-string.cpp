@@ -4,10 +4,9 @@ public:
         int x=1;
         string k="";
         for(int i=0; i<s.length(); i++){
-            k.push_back(s[i]);
             if(s[i]==s[i+1]) ++x;
             if(s[i]!=s[i+1]) x=x/x;
-            if(x>2){k.pop_back(); x--;}
+            if(x<=2){k.push_back(s[i]);}
         }
         return k;
         // for(int i=0; i<s.size(); i++){
