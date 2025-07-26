@@ -5,9 +5,9 @@ public:
         int z=operations.size();
         for(int i=0; i<z; i++){
             if(operations[i]=="++X") ++x;
-            if(operations[i]=="--X") --x;
-            if(operations[i]=="X++") x++;
-            if(operations[i]=="X--") x--;
+            else if(operations[i]=="--X") --x;
+            else if(operations[i]=="X++") x++;
+            else x--;
         }
         return x;
     }
