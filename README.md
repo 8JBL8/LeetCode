@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/8JBL8/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/8JBL8/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/8JBL8/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/8JBL8/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1651-shuffle-string](https://github.com/8JBL8/LeetCode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/8JBL8/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/8JBL8/LeetCode/tree/master/1894-merge-strings-alternately) |
