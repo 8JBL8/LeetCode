@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/8JBL8/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/8JBL8/LeetCode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/8JBL8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/8JBL8/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2401-count-asterisks](https://github.com/8JBL8/LeetCode/tree/master/2401-count-asterisks) |
 ## Stack
 |  |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/8JBL8/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/8JBL8/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/8JBL8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/8JBL8/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
