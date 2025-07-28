@@ -3,7 +3,6 @@ public:
     bool arrayStringsAreEqual(vector<string>& word1, vector<string>& word2) {
         string aa="";
         string bb="";
-        
         for(int i=0; i<word1.size(); i++){
             string k=word1[i];
             aa=aa+k;
