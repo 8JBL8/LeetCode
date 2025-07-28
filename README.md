@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/8JBL8/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/8JBL8/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/8JBL8/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/8JBL8/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/8JBL8/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/8JBL8/LeetCode/tree/master/1944-truncate-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/8JBL8/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/8JBL8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/8JBL8/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2401-count-asterisks](https://github.com/8JBL8/LeetCode/tree/master/2401-count-asterisks) |
