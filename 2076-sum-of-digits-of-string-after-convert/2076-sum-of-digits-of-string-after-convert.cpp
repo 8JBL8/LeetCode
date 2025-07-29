@@ -26,6 +26,5 @@ public:
         stringstream ss(ans);
         ss>>ff;
         return ff;
-        
     }
 };
