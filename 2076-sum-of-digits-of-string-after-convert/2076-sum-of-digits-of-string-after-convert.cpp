@@ -14,7 +14,6 @@ public:
                 }
             }
         }
-        
         while(k!=0){
             int w=0;
             for(int j=0; j<ans.size(); j++){
@@ -24,6 +23,7 @@ public:
               ans=to_string(w);
               k--;
         }
+        
         int ff;
         stringstream ss(ans);
         ss>>ff;
