@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/8JBL8/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/8JBL8/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/8JBL8/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/8JBL8/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/8JBL8/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting Sort
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/8JBL8/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/8JBL8/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/8JBL8/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/8JBL8/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/8JBL8/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
