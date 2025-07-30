@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/8JBL8/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/8JBL8/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/8JBL8/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/8JBL8/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/8JBL8/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/8JBL8/LeetCode/tree/master/1651-shuffle-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/8JBL8/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/8JBL8/LeetCode/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/8JBL8/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
