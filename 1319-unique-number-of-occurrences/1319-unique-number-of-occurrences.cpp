@@ -13,6 +13,7 @@ public:
                 count = 1;
             }
         }
+        
         freq.push_back(count); 
 
         sort(freq.begin(), freq.end());
