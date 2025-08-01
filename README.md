@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/8JBL8/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/8JBL8/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/8JBL8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/8JBL8/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/8JBL8/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/8JBL8/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/8JBL8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/8JBL8/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2401-count-asterisks](https://github.com/8JBL8/LeetCode/tree/master/2401-count-asterisks) |
+| [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
