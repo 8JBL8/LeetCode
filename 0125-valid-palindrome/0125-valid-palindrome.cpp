@@ -9,6 +9,7 @@ public:
             }
             else continue;
         }
+        
         int l=ans.length()/2;
             int low=0;
             int high=ans.length()-1;
