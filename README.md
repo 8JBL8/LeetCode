@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/8JBL8/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/8JBL8/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/8JBL8/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1156-occurrences-after-bigram](https://github.com/8JBL8/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/8JBL8/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/8JBL8/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/8JBL8/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
