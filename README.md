@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/8JBL8/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/8JBL8/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/8JBL8/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8JBL8/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/8JBL8/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
