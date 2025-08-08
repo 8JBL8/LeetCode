@@ -3,6 +3,7 @@ public:
     string reverseWords(string s) {
         vector<string> ans;
         string k="";
+        
         s.push_back(' ');
         for(int i=0; i<s.length(); i++){
             if(s[i]!=' '){
