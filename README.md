@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/8JBL8/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/8JBL8/LeetCode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/8JBL8/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/8JBL8/LeetCode/tree/master/0412-fizz-buzz) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/8JBL8/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/8JBL8/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/8JBL8/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
