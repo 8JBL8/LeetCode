@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/8JBL8/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/8JBL8/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/8JBL8/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/8JBL8/LeetCode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/8JBL8/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
