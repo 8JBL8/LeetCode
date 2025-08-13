@@ -6,6 +6,7 @@ public:
             num.pop_back();
             i--;
         }
+        
         return num;
     }
 };
