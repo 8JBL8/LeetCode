@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/8JBL8/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/8JBL8/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/8JBL8/LeetCode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/8JBL8/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/8JBL8/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/8JBL8/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/8JBL8/LeetCode/tree/master/3447-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/8JBL8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/8JBL8/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/8JBL8/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3447-clear-digits](https://github.com/8JBL8/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
