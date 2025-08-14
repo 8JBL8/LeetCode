@@ -14,7 +14,6 @@ public:
             ans.push_back(z);
         }
         int sum = accumulate(ans.begin(), ans.end(), 0);
-
         return sum;
     }
 };
