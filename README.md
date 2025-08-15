@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/8JBL8/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/8JBL8/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/8JBL8/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/8JBL8/LeetCode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/8JBL8/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/8JBL8/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/8JBL8/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/8JBL8/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/8JBL8/LeetCode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
