@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/8JBL8/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/8JBL8/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/8JBL8/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/8JBL8/LeetCode/tree/master/0941-sort-array-by-parity) |
