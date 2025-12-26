@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/8JBL8/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/8JBL8/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/8JBL8/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/8JBL8/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/8JBL8/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/8JBL8/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/8JBL8/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/8JBL8/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/8JBL8/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/8JBL8/LeetCode/tree/master/3447-clear-digits) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/8JBL8/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/8JBL8/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/8JBL8/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/8JBL8/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/8JBL8/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/8JBL8/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
