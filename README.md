@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/8JBL8/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/8JBL8/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/8JBL8/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/8JBL8/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/8JBL8/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/8JBL8/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/8JBL8/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/8JBL8/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/8JBL8/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/8JBL8/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/8JBL8/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8JBL8/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/8JBL8/LeetCode/tree/master/2502-sort-the-people) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/8JBL8/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1137-height-checker](https://github.com/8JBL8/LeetCode/tree/master/1137-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/8JBL8/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8JBL8/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
