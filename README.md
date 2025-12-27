@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/8JBL8/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/8JBL8/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/8JBL8/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/8JBL8/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/8JBL8/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/8JBL8/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/8JBL8/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/8JBL8/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/8JBL8/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/8JBL8/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/8JBL8/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/8JBL8/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/8JBL8/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/8JBL8/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/8JBL8/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/8JBL8/LeetCode/tree/master/1720-crawler-log-folder) |
