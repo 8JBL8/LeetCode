@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/8JBL8/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/8JBL8/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/8JBL8/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/8JBL8/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/8JBL8/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/8JBL8/LeetCode/tree/master/0932-monotonic-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/8JBL8/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/8JBL8/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/8JBL8/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/8JBL8/LeetCode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/8JBL8/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/8JBL8/LeetCode/tree/master/1720-crawler-log-folder) |
